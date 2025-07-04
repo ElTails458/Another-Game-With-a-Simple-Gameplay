@@ -1,7 +1,7 @@
 # Licencia
 
 Este proyecto **Another Game With a Simple Gameplay** de **ElTails458** está licenciado bajo una  
-**Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional**.
+**Licencia Creative Commons Attribution-NoComercial-NoDerivatives 4.0 Internacional**.
 
 ![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
 
