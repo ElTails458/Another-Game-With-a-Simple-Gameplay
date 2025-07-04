@@ -12,7 +12,7 @@ Este es un pequeño juego creado en Unity 🕹️.
 
 \## 🇪🇸 Cómo jugar
 
-1\. Descarga el archivo `.zip` desde la sección \[Releases](https://github.com/ElTails458/Another-Game-With-a-simple-Gameplay).
+1\. Descarga el archivo `.zip` desde la sección \[Releases](https://github.com/ElTails458/Another-Game-With-a-Simple-Gameplay/blob/main/Another%20Game%20With%20a%20Simple%20Gameplay%20.zip.zip.zip.zip.zip).
 
 2\. Extrae todo el contenido en una carpeta.
 
@@ -64,7 +64,7 @@ This is a small game created in Unity 🕹️.
 
 ## 🇬🇧 How to play
 
-1. Download the `.zip` file from the [Releases](https://github.com/ElTails458/Another-Game-With-a-simple-Gameplay) section.  
+1. Download the `.zip` file from the [Releases](https://github.com/ElTails458/Another-Game-With-a-Simple-Gameplay/blob/main/Another%20Game%20With%20a%20Simple%20Gameplay%20.zip.zip.zip.zip.zip) section.  
 2. Extract all its contents into a folder.  
 3. Double-click `Another Game With a Simple Gameplay.exe`.
 
