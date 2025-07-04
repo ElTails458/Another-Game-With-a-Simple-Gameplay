@@ -48,10 +48,11 @@ Este es un pequeño juego creado en Unity 🕹️.
 
 Si quieres ver el código fuente y archivos del proyecto, clona este repositorio:
 
-```bash
 
 git clone git@github.com:ElTails458/Another-Game-With-a-simple-Gameplay.git
 
+
+---------------------------------------------------------------------------------------------
 
 
 # Another Game With a Simple Gameplay
@@ -85,5 +86,4 @@ And that’s it! Enjoy 🚀
 
 If you want to see the source code and project files, clone this repository:
 
-```bash
 git clone git@github.com:ElTails458/Another-Game-With-a-simple-Gameplay.git
